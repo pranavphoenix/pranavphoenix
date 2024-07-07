@@ -16,5 +16,4 @@ Here are some ideas to get you started:
 -->
 <div class="row">
     <img alt="Pranav's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pranavphoenix&count_private=true&show_icons=true&theme=rose_pine" height="180">
-  <img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavphoenix&theme=rose_pine&layout=compact&hide=SCSS,Scheme,SystemVerilog,Stata,HTML,JavaScript,Batchfile,Verilog&langs_count=6" height="180">
 </div>
