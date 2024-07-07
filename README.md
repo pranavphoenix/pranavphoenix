@@ -15,5 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div class="row">
-    <img alt="Pranav's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pranavphoenix&count_private=true&show_icons=true&theme=transparent" height="180">
+    <img alt="Pranav's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=pranavphoenix&count_private=true&show_icons=true&theme=transparent&hide_rank=true" height="180">
 </div>
